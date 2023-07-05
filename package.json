@@ -1,0 +1,26 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alla-Kalyakina/Import-Export.git"
+  },
+  "author": "Alla-Kalyakina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alla-Kalyakina/Import-Export/issues"
+  },
+  "homepage": "https://github.com/Alla-Kalyakina/Import-Export#readme",
+  "devDependencies": {
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-merge": "^5.9.0"
+  }
+}
